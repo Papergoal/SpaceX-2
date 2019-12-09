@@ -3,8 +3,10 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    tools:context=".MainActivity">
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@color/colorBackDark">
+
 
     <LinearLayout
         android:id="@+id/navbar"
@@ -18,7 +20,8 @@
             android:id="@+id/textView"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Texte temporaire pour dire que c'est le menu" />
+            android:text="Texte temporaire pour dire que c'est le menu"
+            android:textColor="@color/colorAccent"/>
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
