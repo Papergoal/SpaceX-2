@@ -1,6 +1,11 @@
 # SpaceX-2
 
-Nos User-Stories au départ : 
+Personnes contribuant au projet mobile :
+PERROCHAUD Joackim
+PAGEOT Marius
+MANCEAU Etienne
+
+## Nos User-Stories au départ : 
 
 En tant qu’utilisateur je veux pouvoir :
 
