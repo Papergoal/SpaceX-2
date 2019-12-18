@@ -1,8 +1,11 @@
 # SpaceX-2
 
 Personnes contribuant au projet mobile :
+
 PERROCHAUD Joackim
+
 PAGEOT Marius
+
 MANCEAU Etienne
 
 ## Nos User-Stories au départ : 
