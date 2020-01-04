@@ -5,6 +5,9 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
 
     <com.google.android.flexbox.FlexboxLayout
         android:id="@+id/flexbox"
@@ -14,5 +17,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"/>
 
+</ScrollView>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
