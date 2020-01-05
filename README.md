@@ -41,6 +41,7 @@ Enfin, on a décidé d'utiliser des couleurs très proches de celles du site de 
 En effet, ce genre de combinaison de couleurs est souvent utilisé comme par exemple avec YouTube en dark mode.
 
 (cf maquettes)
+![alt text](maquette.png)
 
 
 
